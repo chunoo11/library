@@ -6,7 +6,9 @@
 
 
 [고려사항](./고려사항.png)
-
+<p align= "center">
+<img width="70%" alt="고려사항" src=https://github.com/user-attachments/assets/64ff25ea-44d9-4d5c-bce7-f326b896e983
+</p>
 
 ==============================================
 회고
